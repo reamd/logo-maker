@@ -1,6 +1,6 @@
-# <div align="center"><img src="src/assets/logo_maker_logo.png" width=300/></div>
+# <div align="center"><img src="./src/assets/logo_maker_logo.png" width=300/></div>
 
-### <div align="center"><b>English | <a href="README_CN.md">简体中文</a></b></div>
+> :rocket: You can use this open source project as a starting point for creating a unique logo for your project..
 
 <div align="center">
 
@@ -10,8 +10,6 @@
 [![LICENSE](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](https://github.com/reamd/logo-maker/blob/master/LICENSE)
 
 </div>
-
-> :rocket: You can use this open source project as a starting point for creating a unique logo for your project..
 
 ## :computer:How to use
 
